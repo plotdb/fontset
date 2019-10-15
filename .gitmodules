@@ -16,3 +16,6 @@
 [submodule "fonts/chinese/ButTaiwan/源泉圓體"]
 	path = fonts/chinese/ButTaiwan/源泉圓體
 	url = https://github.com/ButTaiwan/gensen-font
+[submodule "fonts/google"]
+	path = fonts/google
+	url = https://github.com/google/fonts/
