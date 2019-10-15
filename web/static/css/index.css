@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'test';
+  src: url("/assets/fonts/blah.ttf");
+}
+body {
+  font-family: 'test';
+  font-size: 18px;
+}
