@@ -28,3 +28,4 @@ All fonts listed here should be released under open license that are okay for re
 
 Detail of corresponding license for each font should be available in the directory for that font.
 
+Source code except those from fonts repo are released under MIT License.
