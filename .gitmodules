@@ -1,3 +1,6 @@
 [submodule "fonts/google"]
 	path = fonts/google
 	url = https://github.com/google/fonts/
+[submodule "fonts/chinese"]
+	path = fonts/chinese
+	url = https://github.com/plotdb/fontset-cjk
